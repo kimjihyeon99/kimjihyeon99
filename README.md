@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🙋‍♀️ I used to study antlr and Deeplearning
-- 📖 I’m currently learning rust and solidity
+- 📖 I’m currently learning rust and solidity and flutter
 - 📫 How to reach me: kim.jihyeon078@gmail.com
 
 ![jihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjihyeon99&show_icons=true&theme=onedark)
